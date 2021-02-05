@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:campfire_cooking",
+    "ingredient": {
+        "item": "salty_th3_b0y5_m0d:raw_calamari"
+    },
+    "result": "salty_th3_b0y5_m0d:cooked_calamari",
+    "experience": 2,
+    "cookingtime": 200
+}

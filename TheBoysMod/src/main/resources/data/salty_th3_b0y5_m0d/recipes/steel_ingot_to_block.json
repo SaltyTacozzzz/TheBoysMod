@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "sss",
+        "sss",
+        "sss"
+    ],
+    "key": {
+        "s": {
+            "item": "salty_th3_b0y5_m0d:steel_ingot"
+        }
+    },
+    "result": {
+        "item": "salty_th3_b0y5_m0d:steel_block",
+        "count": 1
+    }
+}

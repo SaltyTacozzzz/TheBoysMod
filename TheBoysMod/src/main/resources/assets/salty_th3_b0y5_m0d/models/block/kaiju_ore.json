@@ -1,0 +1,6 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+		"all": "salty_th3_b0y5_m0d:blocks/kaiju_ore"
+	}
+}

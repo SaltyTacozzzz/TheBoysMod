@@ -1,0 +1,24 @@
+{
+   "textures": {
+        "particle": "salty_th3_b0y5_m0d:blocks/carrotcake_side",
+        "bottom": "salty_th3_b0y5_m0d:blocks/carrotcake_bottom",
+        "top": "salty_th3_b0y5_m0d:blocks/carrotcake_top",
+        "side": "salty_th3_b0y5_m0d:blocks/carrotcake_side",
+        "inside": "block/cake_inner"
+    },
+    "elements": [
+        {   "from": [ 5, 0, 1 ],
+            "to": [ 15, 8, 15 ],
+            "faces": {
+                "down":  { "texture": "#bottom", "cullface": "down" },
+                "up":    { "texture": "#top" },
+                "north": { "texture": "#side" },
+                "south": { "texture": "#side" },
+                "west":  { "texture": "#inside" },
+                "east":  { "texture": "#side" }
+            }
+        }
+    ]
+}
+
+

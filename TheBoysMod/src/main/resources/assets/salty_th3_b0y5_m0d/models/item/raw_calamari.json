@@ -1,0 +1,6 @@
+{
+	"parent": "item/generated",
+    "textures": {
+    	"layer0": "salty_th3_b0y5_m0d:items/raw_calamari"   
+    }
+}

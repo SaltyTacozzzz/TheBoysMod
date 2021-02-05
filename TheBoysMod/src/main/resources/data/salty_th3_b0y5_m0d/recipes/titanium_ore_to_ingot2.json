@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": {
+        "item": "salty_th3_b0y5_m0d:titanium_ore"
+    },
+    "result": "salty_th3_b0y5_m0d:titanium_ingot",
+    "experience": 2,
+    "cookingtime": 100
+}

@@ -1,0 +1,12 @@
+modLoader="javafml" 
+loaderVersion="[36,)"
+license="All rights reserved"
+
+[[mods]] 
+modId="salty_th3_b0y5_m0d" 
+version="0.1.32" 
+displayName="The Boys Mod"
+authors="Isaiah, Christain, Dru, Noah, Austin, Zeke, and all the other Boys." 
+description='''
+A mod by the boys, for the boys.
+'''
